@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Palhares Tech — foto de perfil redonda</title>
+  <desc id="desc">Símbolo Palhares Tech centralizado dentro de um círculo escuro.</desc>
+  <circle cx="500" cy="500" r="500" fill="#0b1018"/>
+  <circle cx="500" cy="500" r="476" fill="none" stroke="#31d879" stroke-width="8" opacity="0.9"/>
+  <g transform="translate(65 0)">
+    <path fill="#ffffff" fill-rule="evenodd" d="M220 170h255c105 0 175 70 175 175v45c0 105-70 175-175 175H360v265H220z M360 310v115h115c37 0 60-23 60-60v-5c0-32-23-50-60-50z"/>
+    <g fill="none" stroke="#31d879" stroke-width="30" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M355 720h115v-70h100"/>
+      <path d="M355 805h215"/>
+    </g>
+    <g fill="#0b1018" stroke="#31d879" stroke-width="30">
+      <circle cx="650" cy="650" r="38"/>
+      <circle cx="650" cy="805" r="38"/>
+    </g>
+  </g>
+</svg>
