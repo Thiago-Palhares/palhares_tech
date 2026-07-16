@@ -335,6 +335,7 @@ button { font: inherit; }
 .laptop-mockup::after { content: ""; position: absolute; right: -6%; bottom: -12px; left: -6%; height: 12px; background: linear-gradient(#89918c, #424741); border-radius: 2px 2px 7px 7px; box-shadow: 0 8px 12px rgba(0, 0, 0, .25); }
 .laptop-screen { overflow: hidden; aspect-ratio: 1920 / 900; background: #090a09; border: 1px solid #080908; }
 .laptop-screen img, .phone-mockup img { display: block; width: 100%; height: 100%; object-fit: contain; object-position: center top; }
+.phone-mockup img { object-fit: cover; object-position: center top; }
 .phone-mockup { display: none; position: relative; z-index: 1; width: 166px; aspect-ratio: 390 / 844; overflow: hidden; padding: 7px; background: linear-gradient(145deg, #4c524d, #161816); border: 1px solid #727a73; border-radius: 25px; box-shadow: 0 25px 42px rgba(0, 0, 0, .42); }
 .phone-mockup::before { content: ""; position: absolute; top: 10px; left: 50%; z-index: 2; width: 44px; height: 5px; background: #111311; border-radius: 99px; transform: translateX(-50%); }
 .phone-mockup img { border-radius: 19px; }
